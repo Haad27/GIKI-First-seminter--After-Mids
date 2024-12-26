@@ -1,0 +1,5 @@
+ali ,90
+ahmed ,80
+mohammed ,70
+haad , 90
+harry ,50
