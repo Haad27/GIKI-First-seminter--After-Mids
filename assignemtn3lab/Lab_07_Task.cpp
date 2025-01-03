@@ -20,18 +20,13 @@ int transposeArray(int row, int col)
     {
         for (int j = 0; j < col; j++)
         {
-            final[i][j] = arr[j][i];
-        }
-    }
-    // displaying the values
-    for (int i = 0; i < row; i++)
-    {
-        for (int j = 0; j < col; j++)
-        {
-            cout << final[i][j] << " ";
+            cout <<  arr[j][i];
         }
         cout << endl;
     }
+    // displaying the values
+ 
+    
 }
 int main()
 {

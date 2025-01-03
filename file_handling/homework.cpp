@@ -45,7 +45,6 @@ int main()
         // Reset file position for word counting
         obj.clear();  // Clear stream state
         obj.seekg(0); 
-
         while (obj >> z)
         {
             words++;

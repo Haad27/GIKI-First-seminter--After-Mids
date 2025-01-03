@@ -24,3 +24,4 @@ cout << "average = " << sum / 4 <<endl;
     
     return 0 ;
 }
+
